@@ -1,0 +1,32 @@
+.AddTask input[type="checkbox"] {
+  margin: 0 5px 0 40px;
+}
+
+.AddTask input[type="text"] {
+  width: 200px;
+  padding: 5px 10px;
+  border: 1px solid black;
+}
+
+.AddTask input[type="date"] {
+  margin-left: 5px;
+  padding: 5px 10px;
+  border: 1px solid black;
+}
+
+.date {
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.AddTask input:focus {
+  outline: none;
+  border: 1px solid red;
+}
+
+.AddTask button {
+  display: inline-block;
+  padding: 4px 15px;
+  text-transform: uppercase;
+  border: 1px solid black;
+}

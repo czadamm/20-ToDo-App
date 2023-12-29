@@ -1,0 +1,24 @@
+li {
+  margin: 10px 0;
+}
+
+li em.complete {
+  display: block;
+}
+
+button {
+  margin-left: 1px;
+  padding: 0 5px;
+  border-radius: 0;
+  border: 1px solid gray;
+  cursor: pointer;
+}
+
+button:nth-of-type(1) {
+  margin-left: 10px;
+}
+
+em {
+  color: gray;
+  font-size: 12px;
+}
