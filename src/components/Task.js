@@ -24,7 +24,7 @@ const Task = (props) => {
           !
         </button>
       )}
-      {!active && <em className="complete">Ukończono: {endDate}</em>}
+      {!active && <em className="complete">Ukończono w dniu: {endDate}</em>}
     </li>
   );
 };

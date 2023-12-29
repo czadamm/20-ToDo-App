@@ -17,7 +17,7 @@ class App extends Component {
       },
       {
         id: 1,
-        text: "zjeść obiad",
+        text: "zjeść obiadek",
         date: "2023-12-24",
         important: true,
         active: true,
@@ -25,7 +25,7 @@ class App extends Component {
       },
       {
         id: 2,
-        text: "iść spać",
+        text: "iść spać wieczorem",
         date: "2023-12-25",
         important: false,
         active: true,
