@@ -9,7 +9,7 @@ class App extends Component {
     tasks: [
       {
         id: 0,
-        text: "zagrać na kompie!",
+        text: "zagrać na kompie!!",
         date: "2024-02-15",
         important: false,
         active: true,
