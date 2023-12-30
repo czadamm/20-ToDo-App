@@ -6,6 +6,6 @@ Testowy, skrócony opis
 
 skrócony opic podtytułu
 
-### kod do wklejenia
+### npm kod do wklejenia
 
 opis plików
