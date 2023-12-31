@@ -4,7 +4,7 @@ import AddTask from "./AddTask";
 import TaskList from "./TaskList";
 
 class App extends Component {
-  counter = 3;
+  counter = 4;
   state = {
     tasks: [
       {
